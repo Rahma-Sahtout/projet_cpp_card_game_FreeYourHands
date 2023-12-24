@@ -1,0 +1,15 @@
+Au cours de la réalisation de notre projet, nous avons dû faire face à une variété de défis qui ont émaillé notre parcours de développement. Voici une liste détaillée des différents problèmes auxquels nous avons été confrontés, chacun représentant une étape cruciale de notre aventure de création :
+
+1.Défi de Trouver des Ressources en Ligne pour l'Apprentissage de Qt :
+La première étape de notre parcours a été marquée par la difficulté de dénicher des ressources en ligne pour nous initier à l'environnement de développement Qt. La diversité des informations disponibles sur internet a rendu la sélection des ressources appropriées une tâche exigeante, nécessitant une attention particulière pour distinguer la qualité des contenus et naviguer à travers la multitude de tutoriels, forums et documentations.
+
+2.Difficulté d'Apprendre les Widgets de Qt :
+L'acquisition d'une compréhension approfondie des widgets de Qt s'est avérée être un défi substantiel. Chaque widget, élément essentiel de notre interface utilisateur, a demandé un investissement considérable en temps et en effort pour en maîtriser les nuances. Les subtilités et les fonctionnalités spécifiques de chaque widget ont ajouté une complexité supplémentaire à notre processus d'apprentissage.
+
+4.Problème lié à la Logique de Programmation du Jeu :
+La conception de la logique de programmation du jeu a constitué un défi majeur. Nous avons été confrontés à des dilemmes complexes liés à la définition des règles du jeu, à la gestion de l'état du jeu et à la coordination des différents éléments interactifs. Résoudre ces problèmes a exigé une réflexion approfondie et une itération constante pour parvenir à une logique de jeu cohérente et satisfaisante.
+
+5.Baisse de Motivation Face aux Bugs :
+L'identification et la résolution des bugs dans notre code ont parfois entraîné une baisse de motivation au sein de l'équipe. La persévérance nécessaire pour surmonter ces obstacles inattendus a été mise à l'épreuve, avec des moments où la frustration due à la complexité des bugs pouvait avoir un impact sur notre dynamisme. Surmonter cette baisse de motivation a nécessité un renforcement de l'esprit d'équipe et une approche positive pour résoudre les problèmes de manière collaborative.
+
+En résumé, chaque défi rencontré au cours de notre projet a été une occasion d'apprentissage et de croissance. La résolution de ces problèmes a non seulement renforcé nos compétences techniques, mais a également renforcé notre résilience et notre capacité à surmonter les difficultés inhérentes au processus de développement.
