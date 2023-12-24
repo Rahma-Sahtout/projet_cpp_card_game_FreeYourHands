@@ -30,6 +30,8 @@ Below are the screenshots demonstrating the game:
 ![Screenshot 6](images/screenshot6.png)
 # Remarque 
 pour ouvrir le projet sur Qt aller dans le dossier code  source du  jeu
+# Realiser par 
+rahma sahtout et hajar amhil
 # Licence des carte 
 1742956808
 
