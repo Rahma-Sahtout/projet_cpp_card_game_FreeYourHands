@@ -28,3 +28,9 @@ Below are the screenshots demonstrating the game:
 ![Screenshot 4](images/screenshot4.png)
 ![Screenshot 5](images/screenshot5.png)
 ![Screenshot 6](images/screenshot6.png)
+# Remarque 
+pour ouvrir le projet sur Qt aller dans le dossier code  source du  jeu
+# Licence des carte 
+1742956808
+
+
